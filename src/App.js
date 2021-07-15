@@ -11,7 +11,7 @@ function App() {
           setState(state + 1);
         }}
       >
-        Increment = {state}  
+        Increment : {state}  
       </button>
     </div>
   );
